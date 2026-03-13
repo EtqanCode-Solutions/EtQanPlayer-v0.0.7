@@ -1,0 +1,39 @@
+# Node modules
+node_modules/
+
+# Build folders
+dist/
+build/
+release/
+
+# Cache folders
+.angular/
+.cache/
+.cache-loader/
+webpack-cache/
+web-cache/
+wep-cache/
+
+# WhatsApp session (whatsapp-web.js)
+.wwebjs_auth/
+.wwebjs_cache/
+
+# Logs
+*.log
+
+# Flutter/Dart temporary files
+.dart_tool/
+.flutter-plugins-dependencies
+.flutter-plugins
+.packages
+.pub-cache/
+ephemeral/
+Generated.xcconfig
+flutter_export_environment.sh
+
+# iOS Pods (Flutter projects)
+ios/Pods/
+
+# IDE files
+.idea/
+*.iml
